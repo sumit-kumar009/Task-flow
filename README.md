@@ -2,8 +2,8 @@
 
 A mobile-first task planner built with the MERN stack. You plan tasks for a specific date and time, and TaskFlow groups them into Monday–Sunday weeks so you can see at a glance how much is done and how much is still open.
 
-- **Live app:** _coming soon_
-- **API:** _coming soon_
+- **Live app:** https://taskflow-sumit.netlify.app
+- **API:** https://taskflow-api-vxry.onrender.com/api (health check: [`/api/health`](https://taskflow-api-vxry.onrender.com/api/health))
 
 > The API runs on Render's free tier, so the first request after a period of inactivity can take up to a minute while the server wakes up.
 
